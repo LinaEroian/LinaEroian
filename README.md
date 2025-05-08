@@ -1,11 +1,10 @@
 # Manual QA Portfolio
 
-Welcome to my QA Portfolio! Here you'll find examples of my test documentation, including:
+Hello eveyone and welcome to my QA portfolio! Here you'll find examples of my test documentation, including:
 
 - Test Cases
 - Checklists
 - Bug Reports
-- Test Design Techniques
 - SQL and API Testing
 
 This portfolio is based on the example web application: SauceDemo (https://www.saucedemo.com)
