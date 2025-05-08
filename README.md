@@ -1,7 +1,7 @@
 # Manual QA Portfolio
 
 <p align="center">
-  <img src="https://github.com/LinaEroian/LinaEroian/blob/main/01a1dcadd062cdc8483f83103aedde.webp)" width="400"/>
+  <img src="https://github.com/LinaEroian/LinaEroian/blob/main/01a1dcadd062cdc8483f83103aedde.webp)/>
 </p>
 Hello eveyone and welcome to my QA portfolio! Here you'll find examples of my test documentation, including:
 
