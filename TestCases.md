@@ -1,6 +1,10 @@
-## Successful login with valid credentials 
-** STEPS ** :
-1. Enter username standard_user and password secret_sauce -> click “Login”.
-** Expected result **: User successfully logs in and is redirected to the product page 
-** Actual result **: Login successful, products are displayed 
-** Status **: PASSED 
+
+# Test Cases – Sauce Demo Website
+
+| #  | What are we testing                                | Steps                                                                 | Expected result                                                                                         | Actual result                                                                                          | Status  |
+|----|----------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|
+| 1  | Successful login with valid credentials            | Enter username `standard_user` and password `secret_sauce` → click "Login" | User successfully logs in and is redirected to the product page                                         | Login successful, products are displayed                                                                | PASSED  |
+| 2  | Error when entering an invalid username            | Enter an invalid username and valid password (`secret_sauce`) → click "Login" | Error message “Epic sadface: Username and password do not match any user in this service”               | Same error message is displayed                                                                         | PASSED  |
+| 3  | Error when entering an invalid password            | Enter valid username (`standard_user`) and invalid password → click "Login" | Error message “Epic sadface: Username and password do not match any user in this service”               | Error message "Invalid password"                                                                        | FAILED  |
+| 4  | Checking the display of the product list           | Enter username `standard_user` and password `secret_sauce` → click "Login" | User logs in and is redirected to product page. All products are displayed correctly (images, names, prices) | The user successfully logged in and all products are displayed with images, names, prices               | PASSED  |
+| 5  | Adding a product to the cart                       | 1. Authorized user is on the page  <br> 2. Click on “Add to cart”     | The product is added to the cart, and the “Remove” button appears. The cart is updated accordingly      | The product was added, the “Remove” button appeared, and the cart was updated                           | PASSED  |
