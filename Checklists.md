@@ -1,4 +1,4 @@
-## Check List  
+## Check List - Sauce Demo Website (https://www.saucedemo.com/v1/inventory.html)
 *(e.g. CART FUNCTIONALITY)*
 
 | ID    | What are we testing                                                                 | Done |
