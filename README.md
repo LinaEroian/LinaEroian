@@ -14,7 +14,7 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 
 ## Structure
 
-- `TestCases` — Functional test cases for login, checkout, etc. [View Test Cases] (LinaEroian/TestCases.md)
+- `TestCases` — Functional test cases for login, checkout, etc. [View Test Cases] (Github portfolio/TestCases.md)
 - `Checklists` — Testing coverage checklists
 - `BugReports` — Bug report examples with proper formatting
 - `TestDesign` — Examples of QA techniques like BVA and EP
