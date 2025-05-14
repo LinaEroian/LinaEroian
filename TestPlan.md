@@ -1,4 +1,4 @@
-## Test Plan: SauceDemo E-commerce Website
+## Test Plan: SauceDemo (https://www.saucedemo.com/v1/inventory.html)
 
 | **Section**           | **Details**                                                                 |
 |------------------------|------------------------------------------------------------------------------|
