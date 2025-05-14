@@ -3,7 +3,7 @@
   <img src= "https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </p>
 
-Hello eveyone and welcome to my QA portfolio! Here you'll find examples of my test documentation, including:
+ ##Hello eveyone and welcome to my QA portfolio! Here you'll find examples of my test documentation, including:
 
 - Test Cases
 - Checklists
