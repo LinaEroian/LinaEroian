@@ -1,5 +1,3 @@
-# Recreating the Markdown file after code execution state reset
-markdown_content = """# SQL Testing Tasks for SauceDemo (Hypothetical Database)
 
 ## Task 1: Find all users who placed more than 3 orders
 ```sql
