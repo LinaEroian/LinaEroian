@@ -1,4 +1,4 @@
-### Bug Reports for SauceDemo Website
+### Bug Reports for SauceDemo Website (https://www.saucedemo.com)
 
 | ID  | Title                                             | Steps to Reproduce                                                                 | Expected Result                                           | Actual Result                                              | Severity |
 |-----|---------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|----------|
