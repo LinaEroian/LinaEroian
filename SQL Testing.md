@@ -50,15 +50,3 @@ GROUP BY product_id
 ORDER BY times_ordered DESC
 LIMIT 1;
 ```
-
----
-
-*Note: These tasks are based on a hypothetical database structure and used for SQL portfolio demonstration purposes only.*
-"""
-
-# Save the content to a Markdown file
-file_path = "/mnt/data/SQL_Tasks.md"
-with open(file_path, "w") as f:
-    f.write(markdown_content)
-
-file_path
