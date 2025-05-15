@@ -12,3 +12,109 @@
 | 008 | No error shown when cart is empty on checkout     | 1. Login<br>2. Go to cart without adding items<br>3. Proceed to checkout           | Error message should be shown: "Your cart is empty"        | Checkout continues with no validation                     | Medium   |
 | 009 | Logout button not accessible via keyboard         | 1. Login<br>2. Press Tab key until reaching the side menu<br>3. Try to logout      | Logout should be reachable and operable via keyboard       | Logout not reachable using keyboard only                   | High     |
 | 010 | Sorting does not persist after page refresh       | 1. Sort items by "Price: High to Low"<br>2. Refresh the page                        | Selected sorting should persist after refresh              | Sorting resets to default                                  | Medium   |
+
+# API Bug Reports 
+
+## Bug Report 1
+**Title:** Missing Authentication on GET /inventory  
+**Severity:** High  
+**Steps to Reproduce:**  
+1. Send a GET request to `/inventory` without an access token  
+2. Observe response  
+**Expected Result:** 401 Unauthorized  
+**Actual Result:** 200 OK with inventory data  
+**Environment:** Postman, Base URL: `https://www.saucedemo.com/api`
+
+---
+
+## Bug Report 2  
+**Title:** Incorrect status code for invalid login  
+**Severity:** Medium  
+**Steps to Reproduce:**  
+1. Send POST `/login` with invalid credentials  
+2. Observe status code  
+**Expected Result:** 401 Unauthorized  
+**Actual Result:** 200 OK with error message  
+**Environment:** Postman
+
+---
+
+## Bug Report 3  
+**Title:** Response time is over 3 seconds on GET /cart  
+**Severity:** Low  
+**Steps to Reproduce:**  
+1. Send GET request to `/cart`  
+2. Measure response time  
+**Expected Result:** < 2s  
+**Actual Result:** 3.5s  
+**Environment:** Postman, WiFi 100 Mbps
+
+---
+
+## Bug Report 4  
+**Title:** No validation on POST /checkout  
+**Severity:** High  
+**Steps to Reproduce:**  
+1. Send POST request without required fields  
+2. Observe behavior  
+**Expected Result:** 400 Bad Request  
+**Actual Result:** 200 OK  
+**Environment:** Postman
+
+---
+
+## Bug Report 5  
+**Title:** GET /users returns internal user details  
+**Severity:** Critical  
+**Steps to Reproduce:**  
+1. Login as standard user  
+2. Send GET `/users`  
+**Expected Result:** Only current user info  
+**Actual Result:** Sensitive details of other users  
+**Environment:** Postman, Auth token
+
+# SQL Bug Reports 
+
+## Bug Report 1  
+**Title:** Duplicate entries in Users table  
+**Severity:** Medium  
+**Description:** Running `SELECT * FROM users GROUP BY email HAVING COUNT(*) > 1` returns duplicate emails.  
+**Expected:** Unique email per user  
+**Actual:** Multiple records with same email
+
+---
+
+## Bug Report 2  
+**Title:** Missing foreign key in orders table  
+**Severity:** High  
+**Description:** Orders table missing `FOREIGN KEY` constraint to users  
+**Expected:** Proper relational integrity  
+**Actual:** Orphan orders found
+
+---
+
+## Bug Report 3  
+**Title:** Null values in `product_name` field  
+**Severity:** Medium  
+**Description:** Some entries in `products` table have null `product_name`  
+**Query:** `SELECT * FROM products WHERE product_name IS NULL;`  
+**Expected:** All products should have names  
+**Actual:** Found 5 rows with NULL
+
+---
+
+## Bug Report 4  
+**Title:** Prices stored as text  
+**Severity:** Low  
+**Description:** Column `price` in `products` table is of type `VARCHAR`  
+**Expected:** `DECIMAL(10,2)`  
+**Actual:** Text, leads to sorting/filtering errors
+
+---
+
+## Bug Report 5  
+**Title:** No index on login timestamp  
+**Severity:** Low  
+**Description:** `login_history` table lacks index on `timestamp`  
+**Impact:** Slow performance for recent login lookups  
+**Query:** `SELECT * FROM login_history ORDER BY timestamp DESC LIMIT 10;`
