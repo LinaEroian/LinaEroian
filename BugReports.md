@@ -1,4 +1,3 @@
-bug_reports_md = """
 ### Bug Reports for SauceDemo Website
 
 | ID  | Title                                             | Steps to Reproduce                                                                 | Expected Result                                           | Actual Result                                              | Severity |
@@ -13,11 +12,3 @@ bug_reports_md = """
 | 008 | No error shown when cart is empty on checkout     | 1. Login<br>2. Go to cart without adding items<br>3. Proceed to checkout           | Error message should be shown: "Your cart is empty"        | Checkout continues with no validation                     | Medium   |
 | 009 | Logout button not accessible via keyboard         | 1. Login<br>2. Press Tab key until reaching the side menu<br>3. Try to logout      | Logout should be reachable and operable via keyboard       | Logout not reachable using keyboard only                   | High     |
 | 010 | Sorting does not persist after page refresh       | 1. Sort items by "Price: High to Low"<br>2. Refresh the page                        | Selected sorting should persist after refresh              | Sorting resets to default                                  | Medium   |
-"""
-
-file_path = "/mnt/data/README_bug_reports.md"
-
-with open(file_path, "w") as f:
-    f.write(bug_reports_md)
-
-file_path
