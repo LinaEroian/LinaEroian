@@ -22,6 +22,7 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
   
 \* - `BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports) 
 - `TestDesign` — Examples of QA techniques like BVA and EP
-- `Additional` — Extra files for SQL and API
+- `API Testing` — 5 API testing exampleas 📄[API testing ](APITesting.md)
+- `SQL Testing` — 5 SQL testing exampleas📄[SQL testing](SQLTesting.md)
 
 *Disclaimer: All reported bugs on the SauceDemo website were made up for training and demonstration only. Website runs smoother than better ;)
