@@ -17,9 +17,7 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 ## Structure
 
 - `TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
-- `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)
-- `TestPlan` — Test plan 📄[View TestPlan](TestPlan.md)
-  
+- `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
 \* - `BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports) 
 - `TestDesign` — Examples of QA techniques like BVA and EP
 - `API Testing` — 5 API testing exampleas 📄[API testing ](APITesting.md)
