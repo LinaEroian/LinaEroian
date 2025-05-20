@@ -1,11 +1,11 @@
-# Manual QA Portfolio
+# *Manual QA Portfolio*
 <p align="center">
   <img src= "https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </p>
 
  ## Hello eveyone and welcome to my QA portfolio! 
 
-#Hi there! I' am Lina - a passionate *bug hunter* 🕵️‍♀️. I love finding bugs so others don't have to! 
+# Hi there! I' am Lina - a passionate bug hunter 🕵️‍♀️. I love finding bugs so others don't have to! 
 After long journey of late nights and lots of coffee I've found my passion in QA. I've taught myself everithing I know about it from scratch and I'm proud of how far I've come. 
 I'am so exited to bring value to the team, make digital experiences better and smoother for everyone. 
 ---
