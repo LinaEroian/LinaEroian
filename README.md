@@ -16,12 +16,11 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 
 ## Structure
 
-- `TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
-- `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
-\* - `BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports)
-- `BugReports` — Bug report examples 📄[View BugReports 2.0](Jira-screenshots) (few screenshots from Jira)
-- `TestDesign` — Examples of QA techniques like BVA and EP
-- `API Testing` — 5 API testing exampleas 📄[API testing ](APITesting.md)
-- `SQL Testing` — 5 SQL testing exampleas📄[SQL testing](SQLTesting.md)
+- ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
+- 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
+/* - 🐞`BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports)
+- 🐞`BugReports` — Bug report examples 📄[View BugReports 2.0](Jira-screenshots) (few screenshots from Jira)
+- ⚙️ `API Testing` — 5 API testing exampleas 📄[API testing ](APITesting.md)
+- 🐬 `SQL Testing` — 5 SQL testing exampleas📄[SQL testing](SQLTesting.md)
 
 *Disclaimer: All reported bugs on the SauceDemo website were made up for training and demonstration only. Website runs smoother than better ;)
