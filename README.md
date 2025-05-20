@@ -18,7 +18,7 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 
 - ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
 - 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
-* - 🐞`BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports)
+  */ - 🐞`BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports)
 - 🐞`BugReports` — Bug report examples 📄[View BugReports 2.0](Jira-screenshots) (few screenshots from Jira)
 - ⚙️ `API Testing` — 5 API testing exampleas 📄[API testing ](APITesting.md)
 - 🐬 `SQL Testing` — 5 SQL testing exampleas📄[SQL testing](SQLTesting.md)
