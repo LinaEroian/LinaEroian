@@ -3,7 +3,7 @@
   <img src= "https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </p>
 
- ## Hello eveyone and welcome to my QA portfolio! 
+ # Hello eveyone and welcome to my QA portfolio! 
 
 # I'am Lina - a passionate bug hunter 🕵️‍♀️ 
 I love finding bugs so others don't have to! 
@@ -19,7 +19,7 @@ I'am so exсited to bring value to a team and make digital experiences better an
 - Bug Reports
 - SQL and API Testing
 
-# <p align="center"> Structure
+## <p align="center"> Structure
 
 - ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
 - 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
