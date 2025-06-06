@@ -11,7 +11,8 @@ I love diving into the details, uncovering issues, and making things better. The
 This journey hasn't always been easy, but every challenge has taught me something valuable.  
 QA has become more than just a profession — it feels like the right place for me.  
 And I’m so excited to keep growing in it, step by step. 
-Thanks for visiting - feel free to explore my work. 
+
+Thanks for visiting - feel free to explore my work 🤝
 ---
  
 ### 📌 Here you'll find examples of my test documentation, including:
