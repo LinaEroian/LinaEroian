@@ -44,7 +44,7 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 
 ### <p align="center"><strong> My next big goal is to grow into an Automation QA role and make real impact in a tech team I belive in 🚀✨</strong></p>
 
-##<h3 align="center"> MY FIRST AUTOMATION GOALS <h1>🎯</h1></h3>
+## <h3 align="center"> MY FIRST AUTOMATION GOALS <h1>🎯</h1></h3>
 1. Write simple automated test scripts. Start creating small scripts that can open a web page, click buttons, fill out forms, and check if elements appear correctly.
 2. Understand the basics of test automation. Learn what test automation is, when to use it, and how it can help make testing faster and more reliable.
 3. Study how to work with locators. Practice finding elements on a page using IDs, class names, CSS selectors — the foundation of interacting with any web element.
