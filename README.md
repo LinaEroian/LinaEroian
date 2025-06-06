@@ -5,10 +5,14 @@
 
  ## Hello eveyone and welcome to my QA portfolio! 
 
-## I'am Lina - a passionate bug hunter 🕵️‍♀️ 
-After a long journey of late sleeples nights and lots of coffee, I've found my passion in QA. 
-I've taught myself almost everything I know about it from scratch and I'm proud of how far I've come. 
-I'am so exсited to bring value to a team and make digital experiences better and smoother for everyone. 
+## 💡 About Me
+I'am Lina - a passionate bug hunter 🕵️‍♀️ 
+After exploring different paths and asking myself what kind of work makes me feel alive, I found the answer in Quality Assurance.
+
+I love diving into the details, uncovering issues, and making things better. There’s something deeply satisfying about helping create digital experiences that actually work — smoothly, beautifully, reliably.  
+This journey hasn't always been easy, but every challenge has taught me something valuable.  
+QA has become more than just a profession — it feels like the right place for me.  
+And I’m so excited to keep growing in it, step by step. 
 Thanks for visiting - feel free to explore my work. 
 ---
  
