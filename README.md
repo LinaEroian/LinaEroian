@@ -12,14 +12,14 @@ I've taught myself almost everything I know about it from scratch and I'm proud 
 I'am so exсited to bring value to a team and make digital experiences better and smoother for everyone. 
 ---
  
-Here you'll find examples of my test documentation, including:
+ ### Here you'll find examples of my test documentation, including:
 
 - Test Cases
 - Checklists
 - Bug Reports
 - SQL and API Testing
   
-### Tools & Skills
+## Tools & Skills
 - Jira
 - Devtools
 - TestRail
@@ -27,9 +27,9 @@ Here you'll find examples of my test documentation, including:
 - MySQL
 - GitHub and etc.
 
-This portfolio is based on the example web application: SauceDemo (https://www.saucedemo.com)
+This portfolio is based on the example web application: SauceDemo (https://www.saucedemo.com).
 
-## Structure
+# Structure
 
 - ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
 - 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
