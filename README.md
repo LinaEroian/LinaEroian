@@ -3,12 +3,10 @@
   <img src= "https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </p>
 
- ## Hello eveyone and welcome to my QA portfolio! 
-
+## Hello eveyone and welcome to my QA portfolio! 
 ## 💡 About Me
 I'am Lina - a passionate bug hunter 🕵️‍♀️ 
 After exploring different paths and asking myself what kind of work makes me feel alive, I found the answer in Quality Assurance.
-
 I love diving into the details, uncovering issues, and making things better. There’s something deeply satisfying about helping create digital experiences that actually work — smoothly, beautifully, reliably.  
 This journey hasn't always been easy, but every challenge has taught me something valuable.  
 QA has become more than just a profession — it feels like the right place for me.  
