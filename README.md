@@ -6,11 +6,10 @@
  ## Hello eveyone and welcome to my QA portfolio! 
 
 ## I'am Lina - a passionate bug hunter 🕵️‍♀️ 
-I love finding bugs so others don't have to! 
-After a long journey of late nights and lots of coffee, I've found my passion in QA. 
+After a long journey of late sleeples nights and lots of coffee, I've found my passion in QA. 
 I've taught myself almost everything I know about it from scratch and I'm proud of how far I've come. 
 I'am so exсited to bring value to a team and make digital experiences better and smoother for everyone. 
-Thanks for visiting - feel free to explore my work 
+Thanks for visiting - feel free to explore my work. 
 ---
  
 ### 📌 Here you'll find examples of my test documentation, including:
@@ -45,7 +44,7 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 
 ### <p align="center"><strong> My next big goal is to grow into an Automation QA role and make real impact in a tech team I belive in 🚀✨</strong></p>
 
-## <h3 align="center"> MY FIRST AUTOMATION GOALS <h1>🎯</h1></h3>
+## <h3 align="center"> FIRST AUTOMATION GOALS <h1>🎯</h1></h3>
 1. Write simple automated test scripts. Start creating small scripts that can open a web page, click buttons, fill out forms, and check if elements appear correctly.
 2. Understand the basics of test automation. Learn what test automation is, when to use it, and how it can help make testing faster and more reliable.
 3. Study how to work with locators. Practice finding elements on a page using IDs, class names, CSS selectors — the foundation of interacting with any web element.
