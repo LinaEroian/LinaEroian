@@ -10,9 +10,10 @@ I love finding bugs so others don't have to!
 After a long journey of late nights and lots of coffee, I've found my passion in QA. 
 I've taught myself almost everything I know about it from scratch and I'm proud of how far I've come. 
 I'am so exсited to bring value to a team and make digital experiences better and smoother for everyone. 
+Thanks for visiting - feel free to explore my work 
 ---
  
- ### Here you'll find examples of my test documentation, including:
+📌 ### Here you'll find examples of my test documentation, including:
 
 - Test Cases
 - Checklists
