@@ -18,18 +18,8 @@ I'am so exсited to bring value to a team and make digital experiences better an
 - Checklists
 - Bug Reports
 - SQL and API Testing
-  
-## Tools & Skills
-- Jira
-- Devtools
-- TestRail
-- Postman
-- MySQL
-- GitHub and etc.
 
-This portfolio is based on the example web application: SauceDemo (https://www.saucedemo.com).
-
-# Structure
+# <p align="center"> Structure
 
 - ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
 - 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
@@ -39,6 +29,17 @@ This portfolio is based on the example web application: SauceDemo (https://www.s
 - 🐬 `SQL Testing` — 5 SQL testing exampleas📄[SQL testing](SQLTesting.md)
 
 *Disclaimer: All reported bugs on the SauceDemo and ZARA website were made up for training and demonstration only. Website runs smoother than better ;)
+
+  
+## <p align="center">Tools & Skills
+- Jira
+- Devtools
+- TestRail
+- Postman
+- MySQL
+- GitHub and etc.
+
+This portfolio is based on the example web application: SauceDemo (https://www.saucedemo.com).
 
 ### <p align="center"><strong> My next big goal is to grow into an Automation QA role and make real impact in a tech team I belive in 🚀✨</strong></p>
 
