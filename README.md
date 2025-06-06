@@ -4,7 +4,7 @@
 </p>
 
 ## Hello eveyone and welcome to my QA portfolio! 
-## 💡 About Me
+## <p align="center"> 💡 About Me
 I'am Lina - a passionate bug hunter 🕵️‍♀️ 
 After exploring different paths and asking myself what kind of work makes me feel alive, I found the answer in Quality Assurance.
 I love diving into the details, uncovering issues, and making things better. There’s something deeply satisfying about helping create digital experiences that actually work — smoothly, beautifully, reliably.  
