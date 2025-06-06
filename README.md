@@ -13,7 +13,7 @@ I'am so exсited to bring value to a team and make digital experiences better an
 Thanks for visiting - feel free to explore my work 
 ---
  
-📌 ### Here you'll find examples of my test documentation, including:
+### 📌 Here you'll find examples of my test documentation, including:
 
 - Test Cases
 - Checklists
