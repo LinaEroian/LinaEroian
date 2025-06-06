@@ -20,7 +20,7 @@ Thanks for visiting - feel free to explore my work
 - Bug Reports
 - SQL and API Testing
 
-## <p align="center"> STRUCTURE
+## <p align="center"> STRUCTURE 📜
 
 - ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
 - 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
@@ -32,7 +32,7 @@ Thanks for visiting - feel free to explore my work
 *Disclaimer: All reported bugs on the SauceDemo and ZARA website were made up for training and demonstration only. Website runs smoother than better ;)
 
   
-## <p align="center">TOOLS & SKILLS
+## <p align="center">TOOLS & SKILLS 🛠️
 
 - Jira
 - Devtools
