@@ -11,7 +11,7 @@ I love diving into the details, uncovering issues, and making things better. The
 This journey hasn't always been easy, but every challenge has taught me something valuable. QA has become more than just a profession — it feels like the right place for me.  
 And I’m so excited to keep growing in it, step by step. 
 
-Here is my CV - (./https://github.com/LinaEroian/LinaEroian/blob/main/Github%20portfolio/Lina%20Eroian_Junior%20QA_CV.pdf)
+Here is my CV - 📄[View Lina's CV](Github portfolio/Lina Eroian_Junior QA_CV.md)
 
 Thanks for visiting - feel free to explore my work 🤝
 ---
@@ -27,7 +27,7 @@ Thanks for visiting - feel free to explore my work 🤝
 
 - ✅`TestCases` — Functional test cases for login, checkout, etc. 📄[View TestCases](TestCases.md)
 - 📋 `Checklists` — Testing coverage checklists 📄[View Checklists](Checklists.md)  
-  */ - 🐞`BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports)
+- 🐞`BugReports` — Bug report examples 📄[View BugReports](BugReports.md) ( also contains SQL and API bug reports)
 - 📎`BugReports` — Bug report examples 📄[View BugReports 2.0](Jira-screenshots) (few screenshots from Jira)
 - ⚙️ `API Testing` — 5 API testing exampleas 📄[API testing ](APITesting.md)
 - 🐬 `SQL Testing` — 5 SQL testing exampleas📄[SQL testing](SQLTesting.md)
