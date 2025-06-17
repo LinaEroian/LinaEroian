@@ -11,7 +11,7 @@ I love diving into the details, uncovering issues, and making things better. The
 This journey hasn't always been easy, but every challenge has taught me something valuable. QA has become more than just a profession — it feels like the right place for me.  
 And I’m so excited to keep growing in it, step by step. 
 
-Here is my CV - [LINA'S CV] (./Lina Eroian_Junior QA_CV.pdf)
+Here is my CV - [LINA'S CV] (. / Lina Eroian_Junior QA_CV.pdf)
 
 Thanks for visiting - feel free to explore my work 🤝
 ---
